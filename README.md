@@ -37,3 +37,6 @@ Pipeline Orchestration
 Power BI
       ↓
 Business Insights
+```
+
+All process were documented on the [Final Report](Final Report Data Engineering.pdf).
