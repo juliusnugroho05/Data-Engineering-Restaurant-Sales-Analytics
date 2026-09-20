@@ -2,6 +2,9 @@
 
 An end-to-end data engineering project focused on building a complete data pipeline for restaurant sales data, from data cleaning and transformation to workflow orchestration, data warehousing, and business visualization.
 
+## Datasets
+[Dataset](https://www.kaggle.com/datasets/ahmedmohamed2003/restaurant-sales-dirty-data-for-cleaning-training)
+
 ## Project Overview
 
 This project uses the **Restaurant Sales – Dirty Data for Cleaning Training** dataset from Kaggle. The raw dataset contains more than **17,500 transactions** from 2022–2023 with various data quality issues, including missing values, duplicate records, and inconsistent data formats.
@@ -39,4 +42,4 @@ Power BI
 Business Insights
 ```
 
-All process were documented on the [Final Report](Final Report Data Engineering.pdf).
+All process were documented on the [Final Report](Final_Report.pdf).
