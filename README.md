@@ -43,3 +43,7 @@ Business Insights
 ```
 
 All process were documented on the [Final Report](Final_Report.pdf).
+
+## Project Preview
+
+![Dashboard Preview](Dashboard.png)
